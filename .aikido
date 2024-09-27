@@ -1,6 +1,6 @@
 ignore:
   cves:
-    'CVE-2024-30105':
+    'CVE-2024-301050':
       reason: random reason
 exclude:
   paths:

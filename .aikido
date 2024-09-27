@@ -7,4 +7,4 @@ ignore:
 exclude:
   paths:
     - package-lock.json
-    - package-lock.json
+    - package.json
